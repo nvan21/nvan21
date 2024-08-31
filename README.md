@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [implementing Short Horizon Actor Critic (SHAC) on reinforcement learning problems](https://github.com/nvan21/iros_simulator)
 
-- 🌱 I’m currently learning **Bayesian statistics and uncertainty quantification**
+- 🌱 I’m currently learning **Bayesian statistics**
 
 - 👨‍💻 All of my projects are available at [https://www.nathanvanutrecht.com/](https://www.nathanvanutrecht.com/)
 
