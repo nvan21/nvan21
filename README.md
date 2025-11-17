@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.nathanvanutrecht.com/](https://www.nathanvanutrecht.com/)
 
-- 📫 How to reach me **nathanvanutrechtwork@gmail.com**
+- 📫 How to reach me **nvanutrecht@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
