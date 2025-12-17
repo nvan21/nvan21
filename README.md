@@ -7,12 +7,6 @@
 
 ---
 
-### 🔬 Research & Projects
-
-* **Reinforcement Learning:** Currently implementing and optimizing **Short Horizon Actor Critic (SHAC)** for complex control problems.
-* **Robotics Simulation:** Developing differentiable simulation environments to leverage analytical gradients in RL. 
-* **Full-Stack Development:** Maintaining a portfolio of engineering and web projects at [nathanvanutrecht.com](https://www.nathanvanutrecht.com/).
-
 ### 🛠 Languages and Tools
 
 <p align="left">
