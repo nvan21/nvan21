@@ -27,8 +27,3 @@
 * **Email:** [nvanutrecht@gmail.com](mailto:nvanutrecht@gmail.com)
 * **LinkedIn:** [linkedin.com/in/nathan-van-utrecht](https://linkedin.com/in/nathan-van-utrecht)
 * **Portfolio:** [nathanvanutrecht.com](https://www.nathanvanutrecht.com/)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvan21&show_icons=true&theme=tokyonight" alt="Nathan's GitHub Stats" />
-</p>
